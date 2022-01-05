@@ -1,11 +1,9 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /research.html
-  - /about.html
 ---
 
 Under construction.
