@@ -6,10 +6,25 @@ redirect_from:
   - "/supervision.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+<!-- ### PhD and Postdoc positions
 
-Heading 1
-======
+If you are an excellent student and interested in doing a PhD with me, feel free to get in touch.
 
-Heading 2
-======
+### Internship offers (Master's, Engineering school, etc.)
+
+If you are interested in doing an internship or research project with me, get in touch to discuss possible project topics. 
+
+---
+
+# Students, past and present
+
+-->
+
+### PhD students
+- Raphaël Mothe (10/2021 – ): Co-supervising with Cyril Branciard (Institut Néel)
+
+### Master's students
+- Raphaël Mothe (02/2021 – 07/2021): *Quantum metrology with indefinite causal order*
+- Pierre Pocreau (02/2021 – 05/2021): *Improving quantum social welfare by relaxing pseudo-telepathic constraints in non-collaborative games*
+- Océan Koska (02/2021 – 05/2021): *Simulation of the superposition of multiple temporal gates orders in quantum circuits*
+- [Eleftherios Tselentis](https://www.iqoqi-vienna.at/people/staff/eleftherios-ermis-tselentis) (2019, ETH Zürich): *Anomalous weak values and indefinite causal order*
