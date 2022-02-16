@@ -9,7 +9,7 @@ redirect_from:
 
 ### 2022
 
-- Fundamental Computer Science (MoSIG M1 and M1 Info)
+- [Fundamental Computer Science (MoSIG M1 and M1 Info)](https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=445)
 
 ### 2021
 
