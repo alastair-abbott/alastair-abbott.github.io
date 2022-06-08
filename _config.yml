@@ -86,6 +86,7 @@ author:
   location         : "Grenoble, France"
   employer         : # "Inria"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  arxiv            : "https://arxiv.org/a/abbott_a_1.html"
   googlescholar    : "https://scholar.google.com/citations?user=_2VrT9dQbkAJ&hl=en"
   email            : "alastair.abbott@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
