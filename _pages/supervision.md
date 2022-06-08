@@ -6,19 +6,18 @@ redirect_from:
   - "/supervision.html"
 ---
 
-<!-- ### PhD and Postdoc positions
+### PhD and Postdoc positions
 
-If you are an excellent student and interested in doing a PhD with me, feel free to get in touch.
+- Inria is supporting applicants for Marie Curie Postdoctoral Fellowships, see the [EURAXESS posting](https://euraxess.ec.europa.eu/jobs/hosting/inria-msca-pf-2022-hosting-offer-grenoble-lyon-20) for more information.
+- **PhD offers:** various possibilities for funding exist for excellent, well-motivated students; contact me for more details if interested.
 
-### Internship offers (Master's, Engineering school, etc.)
+<!-- ### Internship offers (Master's, Engineering school, etc.)
 
-If you are interested in doing an internship or research project with me, get in touch to discuss possible project topics. 
+If you are interested in doing an internship or research project with me, get in touch to discuss possible project topics. -->
 
 ---
 
 # Students, past and present
-
--->
 
 ### PhD students
 - Raphaël Mothe (10/2021 – ): Co-supervising with Cyril Branciard (Institut Néel)
