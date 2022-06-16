@@ -12,7 +12,7 @@ All of my papers and preprints can also be found on [my arXiv page](https://arxi
 
 * **Receiver-device-independent quantum key distribution protocols**  
 _Marie Ioannou, Pavel Sekatski, Alastair A. Abbott, Denis Rosset, Jean-Daniel Bancal, Nicolas Brunner_  
-[[arXiv](https://arxiv.org/abs/2111.04351)]
+New Journal of Physics 24, 063006 (2022) [[journal](https://doi.org/10.1088/1367-2630/ac71bc)] [[arXiv](https://arxiv.org/abs/2111.04351)]
 * **Receiver-device-independent quantum key distribution**  
 _Marie Ioannou, Maria Ana Pereira, Davide Rusca, Fadri Grünenfelder, Alberto Boaron, Matthieu Perrenoud, Alastair A. Abbott, Pavel Sekatski, Jean-Daniel Bancal, Nicolas Maring, Hugo Zbinden, Nicolas Brunner_  
 [[arXiv](https://arxiv.org/abs/2104.145741)]
