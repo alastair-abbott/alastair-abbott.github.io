@@ -15,6 +15,7 @@ _Marie Ioannou, Pavel Sekatski, Alastair A. Abbott, Denis Rosset, Jean-Daniel Ba
 New Journal of Physics 24, 063006 (2022) [[journal](https://doi.org/10.1088/1367-2630/ac71bc)] [[arXiv](https://arxiv.org/abs/2111.04351)]
 * **Receiver-device-independent quantum key distribution**  
 _Marie Ioannou, Maria Ana Pereira, Davide Rusca, Fadri Grünenfelder, Alberto Boaron, Matthieu Perrenoud, Alastair A. Abbott, Pavel Sekatski, Jean-Daniel Bancal, Nicolas Maring, Hugo Zbinden, Nicolas Brunner_  
+Quantum 6, 718 (2022) [[journal](https://doi.org/10.22331/q-2022-05-24-718)]
 [[arXiv](https://arxiv.org/abs/2104.145741)]
 * **Quantum circuits with classical versus quantum control of causal order**  
 _Julian Wechs, Hippolyte Dourdent, Alastair A. Abbott, Cyril Branciard_  
