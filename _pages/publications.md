@@ -8,8 +8,15 @@ redirect_from:
 
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
-## 2021
+## 2022
 
+* **Comparing the quantum switch and its simulations with energetically-constrained operations**  
+_Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_
+[[arXiv](https://arxiv.org/abs/2208.01952)]
+* **Semi-device-independent certification of causal nonseparability with trusted quantum inputs**  
+_Hippolyte Dourdent, Alastair A. Abbott, Nicolas Brunner, Ivan Šupić, Cyril Branciard_  
+Physical Review Letters, [accepted 15 July (2022)](https://journals.aps.org/prl/accepted/8307aYdaT1013f94204d8a759ca89185465b0695d)
+[[arXiv](https://arxiv.org/abs/2107.10877)]
 * **Receiver-device-independent quantum key distribution protocols**  
 _Marie Ioannou, Pavel Sekatski, Alastair A. Abbott, Denis Rosset, Jean-Daniel Bancal, Nicolas Brunner_  
 New Journal of Physics 24, 063006 (2022) [[journal](https://doi.org/10.1088/1367-2630/ac71bc)] [[arXiv](https://arxiv.org/abs/2111.04351)]
@@ -17,12 +24,12 @@ New Journal of Physics 24, 063006 (2022) [[journal](https://doi.org/10.1088/1367
 _Marie Ioannou, Maria Ana Pereira, Davide Rusca, Fadri Grünenfelder, Alberto Boaron, Matthieu Perrenoud, Alastair A. Abbott, Pavel Sekatski, Jean-Daniel Bancal, Nicolas Maring, Hugo Zbinden, Nicolas Brunner_  
 Quantum 6, 718 (2022) [[journal](https://doi.org/10.22331/q-2022-05-24-718)]
 [[arXiv](https://arxiv.org/abs/2104.145741)]
+
+## 2021
+
 * **Quantum circuits with classical versus quantum control of causal order**  
 _Julian Wechs, Hippolyte Dourdent, Alastair A. Abbott, Cyril Branciard_  
 PRX Quantum 2, 030335 (2021) [[journal](https://doi.org/10.1103/PRXQuantum.2.030335)] [[arXiv](https://arxiv.org/abs/2101.08796)]
-* **Semi-device-independent certification of causal nonseparability with trusted quantum inputs**  
-_Hippolyte Dourdent, Alastair A. Abbott, Nicolas Brunner, Ivan Šupić, Cyril Branciard_  
-[[arXiv](https://arxiv.org/abs/2107.10877)]
 * **Bounding and simulating contextual correlations in quantum theory**  
 _Armin Tavakoli, Emmanuel Zambrini Cruzeiro, Roope Uola, Alastair A. Abbott_  
 PRX Quantum 2, 020334 (2021) [[journal](https://doi.org/10.1103/PRXQuantum.2.020334)] [[arXiv](https://arxiv.org/abs/2010.04751)]
