@@ -6,10 +6,10 @@ redirect_from:
   - "/supervision.html"
 ---
 
-### PhD and Postdoc positions
+<!-- ### PhD and Postdoc positions
 
-- Inria is supporting applicants for Marie Curie Postdoctoral Fellowships, see the [EURAXESS posting](https://euraxess.ec.europa.eu/jobs/hosting/inria-msca-pf-2022-hosting-offer-grenoble-lyon-20) for more information.
-- **PhD offers:** various possibilities for funding exist for excellent, well-motivated students; contact me for more details if interested.
+- Inria is supporting applicants for Marie Curie Postdoctoral Fellowships, see the [EURAXESS posting](https://euraxess.ec.europa.eu/jobs/hosting/inria-msca-pf-2022-hosting-offer-grenoble-lyon-20) for more information. -->
+<!-- - **PhD offers:** various possibilities for funding exist for excellent, well-motivated students; contact me for more details if interested. -->
 
 <!-- ### Internship offers (Master's, Engineering school, etc.)
 
