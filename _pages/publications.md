@@ -15,7 +15,7 @@ _Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice
 [[arXiv](https://arxiv.org/abs/2208.01952)]
 * **Semi-device-independent certification of causal nonseparability with trusted quantum inputs**  
 _Hippolyte Dourdent, Alastair A. Abbott, Nicolas Brunner, Ivan Šupić, Cyril Branciard_  
-Physical Review Letters, [accepted 15 July (2022)](https://journals.aps.org/prl/accepted/8307aYdaT1013f94204d8a759ca89185465b0695d)
+Physical Review Letters 129, 090402 (2022) [[journal](https://doi.org/10.1103/PhysRevLett.129.090402)]
 [[arXiv](https://arxiv.org/abs/2107.10877)]
 * **Receiver-device-independent quantum key distribution protocols**  
 _Marie Ioannou, Pavel Sekatski, Alastair A. Abbott, Denis Rosset, Jean-Daniel Bancal, Nicolas Brunner_  
