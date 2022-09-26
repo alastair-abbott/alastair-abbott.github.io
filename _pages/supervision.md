@@ -6,9 +6,16 @@ redirect_from:
   - "/supervision.html"
 ---
 
-<!-- ### PhD and Postdoc positions
+### PhD and Postdoc positions
 
-- Inria is supporting applicants for Marie Curie Postdoctoral Fellowships, see the [EURAXESS posting](https://euraxess.ec.europa.eu/jobs/hosting/inria-msca-pf-2022-hosting-offer-grenoble-lyon-20) for more information. -->
+Two positions are available as part of the ANR project "Taming Quantum Causality"
+- A PhD position starting in 2022 (to be jointly supervised with Cyril Branciard) working on computational aspects of causal indefiniteness
+- A postdoc position (starting anytime from Jan 2022) at the Institut Néel with Cyril Branciard and in close collaboration with myself
+If you're interested in applying or want further information, contact myself or [Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril).
+
+For further positions, you can also check out the [Job Offers](https://team.inria.fr/qinfo/job-offers/) page of the [QINFO team website](https://team.inria.fr/qinfo/).
+
+<!-- - Inria is supporting applicants for Marie Curie Postdoctoral Fellowships, see the [EURAXESS posting](https://euraxess.ec.europa.eu/jobs/hosting/inria-msca-pf-2022-hosting-offer-grenoble-lyon-20) for more information. -->
 <!-- - **PhD offers:** various possibilities for funding exist for excellent, well-motivated students; contact me for more details if interested. -->
 
 <!-- ### Internship offers (Master's, Engineering school, etc.)
@@ -20,6 +27,7 @@ If you are interested in doing an internship or research project with me, get in
 # Students, past and present
 
 ### PhD students
+- Pierre Pocreau (10/2022 – ): Co-supervising with Mehdi Mhalla (LIG)
 - Raphaël Mothe (10/2021 – ): Co-supervising with Cyril Branciard (Institut Néel)
 
 ### Master's students
