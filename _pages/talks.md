@@ -10,6 +10,11 @@ A selection of talks I've given at various conferences, workshops and research g
 
 **Disclaimer**: These slides reflect my thoughts at the time of the talk, which may have evolved in the time that has since elapsed.
 
+<!-- ## 2022 -->
+<!-- -->
+* **Causal indefiniteness from quantum control of processes**
+_["Ateliers du LKB" seminar series](http://www.lkb.upmc.fr/ateliers-du-lkb/)_,
+Paris, France (October 13, 2022) [[slides](/files/slides/2022_LKB_Abbott.pdf)]
 <!-- ## 2021 -->
 <!-- -->
 * **Bounding and simulating contextual correlations in quantum theory**  

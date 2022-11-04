@@ -10,6 +10,9 @@ All of my papers and preprints can also be found on [my arXiv page](https://arxi
 
 ## 2022
 
+* **Improving social welfare in non-cooperative games with different types of quantum resources**  
+_Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_
+[[arXiv](https://arxiv.org/abs/2211.01687)]
 * **Comparing the quantum switch and its simulations with energetically-constrained operations**  
 _Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_
 [[arXiv](https://arxiv.org/abs/2208.01952)]
