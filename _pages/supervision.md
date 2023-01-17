@@ -8,10 +8,8 @@ redirect_from:
 
 ### PhD and Postdoc positions
 
-Two positions are available as part of the ANR project "Taming Quantum Causality"
-- A PhD position starting in 2022 (to be jointly supervised with Cyril Branciard) working on computational aspects of causal indefiniteness
-- A postdoc position (starting anytime from Jan 2022) at the Institut Néel with Cyril Branciard and in close collaboration with myself
-If you're interested in applying or want further information, contact myself or [Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril).
+- There are some possibilities to apply for PhD funding in Grenoble; exceptional students with ideas for a PhD project can get in touch to discuss such possibilities further.
+- As part of the ANR project "Taming Quantum Causality" there is a postdoc position available (starting anytime from Jan 2022) at the Institut Néel with Cyril Branciard and in close collaboration with myself. If you're interested in applying or want further information, contact myself or [Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril).
 
 For further positions, you can also check out the [Job Offers](https://team.inria.fr/qinfo/job-offers/) page of the [QINFO team website](https://team.inria.fr/qinfo/).
 
