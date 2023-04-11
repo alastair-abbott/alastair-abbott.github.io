@@ -10,6 +10,10 @@ All of my papers and preprints can also be found on [my arXiv page](https://arxi
 
 ## 2023
 
+* **Comparing the quantum switch and its simulations with energetically-constrained operations**  
+_Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_  
+Physical Review Research, accepted (2023)
+[[arXiv](https://arxiv.org/abs/2208.01952)]
 * **Weak entanglement improves quantum communication using only passive linear optics**  
 _Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin Tavakoli_
 [[arXiv](https://arxiv.org/abs/2303.07907)]
@@ -19,10 +23,6 @@ _Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin
 * **Improving social welfare in non-cooperative games with different types of quantum resources**  
 _Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
 [[arXiv](https://arxiv.org/abs/2211.01687)]
-* **Comparing the quantum switch and its simulations with energetically-constrained operations**  
-_Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_  
-Physical Review Research, accepted (2023)
-[[arXiv](https://arxiv.org/abs/2208.01952)]
 * **Semi-device-independent certification of causal nonseparability with trusted quantum inputs**  
 _Hippolyte Dourdent, Alastair A. Abbott, Nicolas Brunner, Ivan Šupić, Cyril Branciard_  
 Physical Review Letters 129, 090402 (2022) [[journal](https://doi.org/10.1103/PhysRevLett.129.090402)]

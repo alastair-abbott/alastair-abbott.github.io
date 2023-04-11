@@ -10,8 +10,8 @@ You can download my full CV [here](/files/docs/CV - Alastair Abbott.pdf).
 
 ## Academic positions
 
-- Since Dec. 2020: **Research scientist ("chargé de recherche") at [Inria Grenoble](https://www.inria.fr/en/centre-inria-grenoble-rhone-alpes)**
-	- Member of the joint Lyon-Grenoble QInfo team and the [QuantAlps](https://quantalps.univ-grenoble-alpes.fr/) Research Federation
+- Since Dec. 2020: **Research scientist ("chargé de recherche") at [Inria Grenoble](https://www.inria.fr/en/inria-centre-university-grenoble-alpes)**
+	- Member of the joint Lyon-Grenoble [QInfo](https://team.inria.fr/qinfo/) team and the [QuantAlps](https://quantalps.univ-grenoble-alpes.fr/) Research Federation
 - 2018 – 2020: **Postdoctoral research at the University of Geneva**
 	- [Quantum Theory group](https://www.unige.ch/gap/qic/theory/) of the Department of Applied Physics
 - 2015 – 2018: **Postdoctoral research at the Institut Néel**
