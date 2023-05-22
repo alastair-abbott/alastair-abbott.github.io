@@ -12,7 +12,7 @@ All of my papers and preprints can also be found on [my arXiv page](https://arxi
 
 * **Comparing the quantum switch and its simulations with energetically-constrained operations**  
 _Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_  
-Physical Review Research, accepted (2023)
+Physical Review Research 5, 023111 (2023) [[journal](https://doi.org/10.1103/PhysRevResearch.5.023111)]
 [[arXiv](https://arxiv.org/abs/2208.01952)]
 * **Weak entanglement improves quantum communication using only passive linear optics**  
 _Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin Tavakoli_
