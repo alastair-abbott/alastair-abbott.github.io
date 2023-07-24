@@ -10,12 +10,15 @@ All of my papers and preprints can also be found on [my arXiv page](https://arxi
 
 ## 2023
 
+* **Quantum query complexity of Boolean functions under indefinite causal order**  
+_Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
+[[arXiv](https://arxiv.org/abs/2307.10285)]
 * **Comparing the quantum switch and its simulations with energetically-constrained operations**  
 _Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_  
 Physical Review Research 5, 023111 (2023) [[journal](https://doi.org/10.1103/PhysRevResearch.5.023111)]
 [[arXiv](https://arxiv.org/abs/2208.01952)]
 * **Weak entanglement improves quantum communication using only passive linear optics**  
-_Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin Tavakoli_
+_Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin Tavakoli_  
 [[arXiv](https://arxiv.org/abs/2303.07907)]
 
 ## 2022
