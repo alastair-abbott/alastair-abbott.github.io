@@ -10,6 +10,9 @@ All of my papers and preprints can also be found on [my arXiv page](https://arxi
 
 ## 2023
 
+* **Network-device-independent certification of causal nonseparability**  
+_Hippolyte Dourdent, Alastair A. Abbott, Ivan Šupić, Cyril Branciard_  
+[[arXiv](https://arxiv.org/abs/2308.12760)]
 * **Quantum query complexity of Boolean functions under indefinite causal order**  
 _Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
 [[arXiv](https://arxiv.org/abs/2307.10285)]
