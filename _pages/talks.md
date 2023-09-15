@@ -10,6 +10,11 @@ A selection of talks I've given at various conferences, workshops and research g
 
 **Disclaimer**: These slides reflect my thoughts at the time of the talk, which may have evolved in the time that has since elapsed.
 
+<!-- ## 2023 -->
+<!-- -->
+* **Improving social welfare in non-cooperative games with different types of quantum resources**
+_[Central European Quantum Information Processing (CEQIP)](http://ceqip.eu/2023/)_,
+Smolenice, Slovakia (September 6, 2023) [[slides](/files/slides/2023_CEQIP_Abbott.pdf)]
 <!-- ## 2022 -->
 <!-- -->
 * **Causal indefiniteness from quantum control of processes**
