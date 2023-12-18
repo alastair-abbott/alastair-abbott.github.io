@@ -19,10 +19,10 @@ My research is at the intersection of computer science and physics: I am interes
 **Main office (Minatec campus):**  
 Room C236, Building 50C  
 Inria Grenoble, Minatec Campus  
-17 rue des Martyrs  
-38054 Grenoble Cedex 9, France  
+3 Parvis Louis Néel 
+38054 Grenoble, France  
 
 **Secondary office (UGA Campus):**  
 Room 484, IMAG Building  
-700 avenue Centrale  
+150 Place du Torrent
 38400 Saint-Martin-d'Hères, France  

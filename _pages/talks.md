@@ -13,8 +13,11 @@ A selection of talks I've given at various conferences, workshops and research g
 <!-- ## 2023 -->
 <!-- -->
 * **Improving social welfare in non-cooperative games with different types of quantum resources**
+_[Japanese-French Quantum Information Workshop (JFQI)](https://jfqi2023.github.io/)_,
+Tokyo, Japan (December 15, 2023) [[slides](https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Abbott.pdf)]
+* **Improving social welfare in non-cooperative games with different types of quantum resources**
 _[Central European Quantum Information Processing (CEQIP)](http://ceqip.eu/2023/)_,
-Smolenice, Slovakia (September 6, 2023) [[slides](/files/slides/2023_CEQIP_Abbott.pdf)]
+Smolenice, Slovakia (September 6, 2023) [[slides](http://ceqip.eu/2023/talks/talk2023ceqip_abbott.pdf)]
 <!-- ## 2022 -->
 <!-- -->
 * **Causal indefiniteness from quantum control of processes**
