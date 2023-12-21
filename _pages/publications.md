@@ -10,6 +10,9 @@ All of my papers and preprints can also be found on [my arXiv page](https://arxi
 
 ## 2023
 
+* **Reassessing the advantage of indefinite causal orders for quantum metrology**  
+_Raphaël Mothe, Cyril Branciard, Alastair A. Abbott_  
+[[arXiv](https://arxiv.org/abs/2312.12172)]
 * **Network-device-independent certification of causal nonseparability**  
 _Hippolyte Dourdent, Alastair A. Abbott, Ivan Šupić, Cyril Branciard_  
 [[arXiv](https://arxiv.org/abs/2308.12760)]
