@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- - There are some possibilities to apply for PhD funding in Grenoble; exceptional students with ideas for a PhD project can get in touch to discuss such possibilities further. -->
 - As part of the European Quantum Secure Networks Partnership, there will soon be a postdoc position available at Inria Grenoble, and working in collaboration with Inria Lyon, on theoretical aspects of device-independent and semi-device-independent quantum key distribution. Please get in contact for further information.
-- As part of the ANR project "Taming Quantum Causality" there is a postdoc position available (starting anytime from Jan 2023) at the Institut Néel with Cyril Branciard and in close collaboration with myself. If you're interested in applying or want further information, contact myself or [Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril).
+<!-- - As part of the ANR project "Taming Quantum Causality" there is a postdoc position available (starting anytime from Jan 2023) at the Institut Néel with Cyril Branciard and in close collaboration with myself. If you're interested in applying or want further information, contact myself or [Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril). -->
 
 For further positions, you can also check out the [Job Offers](https://team.inria.fr/qinfo/job-offers/) page of the [QINFO team website](https://team.inria.fr/qinfo/).
 
@@ -31,8 +31,9 @@ If you are interested in doing an internship or research project with me, get in
 - Raphaël Mothe (10/2021 – ): Co-supervising with Cyril Branciard (Institut Néel)
 
 ### Master's students
+- Raphaël Le Bihan (02/2024 – 08/2024): *Compositionality of causally indefinite quantum supermaps*
 - Pierre Pocreau (02/2022 – 07/2022): *Query complexity for higher order quantum computation*
-- Elliot Renel (02/2022 - 06/2022): *Computational advantages with causally indefinite quantum circuits*
+- Elliot Renel (02/2022 – 06/2022): *Computational advantages with causally indefinite quantum circuits*
 - Raphaël Mothe (02/2021 – 07/2021): *Quantum metrology with indefinite causal order*
 - Pierre Pocreau (02/2021 – 05/2021): *Improving quantum social welfare by relaxing pseudo-telepathic constraints in non-collaborative games*
 - Océan Koska (02/2021 – 05/2021): *Simulation of the superposition of multiple temporal gates orders in quantum circuits*

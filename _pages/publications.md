@@ -8,6 +8,13 @@ redirect_from:
 
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
+## 2024
+
+* **Weak entanglement improves quantum communication using only product measurements**  
+_Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin Tavakoli_  
+Physical Review Applied 21, 034053 (2024) [[journal](https://doi.org/10.1103/PhysRevApplied.21.034053)]
+[[arXiv](https://arxiv.org/abs/2303.07907)]
+
 ## 2023
 
 * **Reassessing the advantage of indefinite causal orders for quantum metrology**  
@@ -23,9 +30,6 @@ _Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_
 _Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_  
 Physical Review Research 5, 023111 (2023) [[journal](https://doi.org/10.1103/PhysRevResearch.5.023111)]
 [[arXiv](https://arxiv.org/abs/2208.01952)]
-* **Weak entanglement improves quantum communication using only passive linear optics**  
-_Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin Tavakoli_  
-[[arXiv](https://arxiv.org/abs/2303.07907)]
 
 ## 2022
 
