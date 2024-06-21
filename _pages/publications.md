@@ -9,7 +9,10 @@ redirect_from:
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
 ## 2024
-
+* **Improving social welfare in non-cooperative games with different types of quantum resources**  
+_Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
+Quantum 8, 1376 (2024) [[journal](https://doi.org/10.22331/q-2024-06-17-1376)]
+[[arXiv](https://arxiv.org/abs/2211.01687)]
 * **Weak entanglement improves quantum communication using only product measurements**  
 _Amélie Piveteau, Alastair A. Abbott, Sadiq Muhammad, Mohamed Bourennane, Armin Tavakoli_  
 Physical Review Applied 21, 034053 (2024) [[journal](https://doi.org/10.1103/PhysRevApplied.21.034053)]
@@ -33,9 +36,6 @@ Physical Review Research 5, 023111 (2023) [[journal](https://doi.org/10.1103/Phy
 
 ## 2022
 
-* **Improving social welfare in non-cooperative games with different types of quantum resources**  
-_Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
-[[arXiv](https://arxiv.org/abs/2211.01687)]
 * **Semi-device-independent certification of causal nonseparability with trusted quantum inputs**  
 _Hippolyte Dourdent, Alastair A. Abbott, Nicolas Brunner, Ivan Šupić, Cyril Branciard_  
 Physical Review Letters 129, 090402 (2022) [[journal](https://doi.org/10.1103/PhysRevLett.129.090402)]
