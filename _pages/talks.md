@@ -106,12 +106,15 @@ Turku, Finland (June 8, 2011) [[slides](/files/slides/2011_UC_Abbott.pdf)]
 
 # Posters
 
+<!-- * **Self-testing quantum supermaps, with an application to the quantum switch**
+_[Seefeld Workshop on Quantum Information](https://www.uibk.ac.at/th-physik/seefeld2024/)_,
+Seefeld in Tirol, Austria (June 25, 2024) [[pdf](/files/2024_Seefeld_Abbott.pdf)] -->
 * **Device-independent quantification of quantum resources**  
 _[Quantum Communication, Measurement and Computing (QCMC)](http://www.qcmc-lisbon.org/)_,
 Lisbon, Portugal (July 11, 2022) [[pdf](/files/posters/2022_QCMC_Abbott.pdf)]
 * **Optimizing quantum social welfare in non-collaborative games**  
 _[Quantum Physics and Logic (QPL)](https://www.qplconference.org/)_,
-Oxford, UK (Jume 27, 2022) [[pdf](/files/posters/2022_QPL_Abbott.pdf)]
+Oxford, UK (June 27, 2022) [[pdf](/files/posters/2022_QPL_Abbott.pdf)]
 * **Device-independent quantification of quantum resources**  
 _[Vienna Quantum Foundations Conference (VQF-CON)](https://vqf.iqoqi.oeaw.ac.at/)_,
 Vienna (virtual), Austria (September 8, 2021) [[pdf](/files/posters/2021_VQF-CON_Abbott.pdf)]

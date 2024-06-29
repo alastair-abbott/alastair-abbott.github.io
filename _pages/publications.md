@@ -9,6 +9,10 @@ redirect_from:
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
 ## 2024
+* **Reassessing the advantage of indefinite causal orders for quantum metrology**  
+_Raphaël Mothe, Cyril Branciard, Alastair A. Abbott_  
+Physical Review A 109, 062435 (2024) [[journal](https://doi.org/10.1103/PhysRevA.109.062435)]
+[[arXiv](https://arxiv.org/abs/2312.12172)]
 * **Improving social welfare in non-cooperative games with different types of quantum resources**  
 _Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
 Quantum 8, 1376 (2024) [[journal](https://doi.org/10.22331/q-2024-06-17-1376)]
@@ -20,9 +24,6 @@ Physical Review Applied 21, 034053 (2024) [[journal](https://doi.org/10.1103/Phy
 
 ## 2023
 
-* **Reassessing the advantage of indefinite causal orders for quantum metrology**  
-_Raphaël Mothe, Cyril Branciard, Alastair A. Abbott_  
-[[arXiv](https://arxiv.org/abs/2312.12172)]
 * **Network-device-independent certification of causal nonseparability**  
 _Hippolyte Dourdent, Alastair A. Abbott, Ivan Šupić, Cyril Branciard_  
 [[arXiv](https://arxiv.org/abs/2308.12760)]
