@@ -9,7 +9,7 @@ redirect_from:
 ### PhD and Postdoc positions
 
 <!-- - There are some possibilities to apply for PhD funding in Grenoble; exceptional students with ideas for a PhD project can get in touch to discuss such possibilities further. -->
-- We currently have two postdoc positions open for research related to quantum cryptography. The candidates could be based either in Grenoble (with myself) or Lyon (with Omar Fawzi). For more information, see the [Job Offers](https://team.inria.fr/qinfo/job-offers/) page of the [QINFO team website](https://team.inria.fr/qinfo/).
+- We currently have a postdoc position open for research related to quantum cryptography. The candidates could be based either in Grenoble (with myself) or Lyon (with Omar Fawzi). For more information, see the [Job Offers](https://team.inria.fr/qinfo/job-offers/) page of the [QINFO team website](https://team.inria.fr/qinfo/).
 <!-- - As part of the ANR project "Taming Quantum Causality" there is a postdoc position available (starting anytime from Jan 2023) at the Institut Néel with Cyril Branciard and in close collaboration with myself. If you're interested in applying or want further information, contact myself or [Cyril Branciard](https://neel.cnrs.fr/les-chercheurs-et-techniciens/branciard-cyril). -->
 
 <!-- For further positions, you can also check out the [Job Offers](https://team.inria.fr/qinfo/job-offers/) page of the [QINFO team website](https://team.inria.fr/qinfo/). -->
