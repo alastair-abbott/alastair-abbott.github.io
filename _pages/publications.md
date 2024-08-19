@@ -9,6 +9,10 @@ redirect_from:
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
 ## 2024
+* **Quantum query complexity of Boolean functions under indefinite causal order**  
+_Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
+Physical Review Research 6, L032020 (2024) [[journal](https://doi.org/10.1103/PhysRevResearch.6.L032020)]
+[[arXiv](https://arxiv.org/abs/2307.10285)]
 * **Reassessing the advantage of indefinite causal orders for quantum metrology**  
 _Raphaël Mothe, Cyril Branciard, Alastair A. Abbott_  
 Physical Review A 109, 062435 (2024) [[journal](https://doi.org/10.1103/PhysRevA.109.062435)]
@@ -27,9 +31,6 @@ Physical Review Applied 21, 034053 (2024) [[journal](https://doi.org/10.1103/Phy
 * **Network-device-independent certification of causal nonseparability**  
 _Hippolyte Dourdent, Alastair A. Abbott, Ivan Šupić, Cyril Branciard_  
 [[arXiv](https://arxiv.org/abs/2308.12760)]
-* **Quantum query complexity of Boolean functions under indefinite causal order**  
-_Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
-[[arXiv](https://arxiv.org/abs/2307.10285)]
 * **Comparing the quantum switch and its simulations with energetically-constrained operations**  
 _Marco Fellous-Asiani, Raphaël Mothe, Léa Bresque, Hippolyte Dourdent, Patrice A. Camati, Alastair A. Abbott, Alexia Auffèves, Cyril Branciard_  
 Physical Review Research 5, 023111 (2023) [[journal](https://doi.org/10.1103/PhysRevResearch.5.023111)]
