@@ -10,6 +10,11 @@ A selection of talks I've given at various conferences, workshops and research g
 
 **Disclaimer**: These slides reflect my thoughts at the time of the talk, which may have evolved in the time that has since elapsed.
 
+<!-- ## 2024 -->
+<!-- -->
+* **Self-testing quantum supermaps, with an application to the quantum switch**
+_[Causalworlds](https://events.perimeterinstitute.ca/event/69/)_,
+Perimeter Institute, Waterloo, Canada (September 16, 2024)
 <!-- ## 2023 -->
 <!-- -->
 * **Improving social welfare in non-cooperative games with different types of quantum resources**

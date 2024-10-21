@@ -26,12 +26,13 @@ If you are interested in doing an internship or research project with me, get in
 # Students, past and present
 
 ### PhD students
+- Raphaël le Bihan (10/2024 – ): Co-supervising with Mnacho Echenim (LIG)
 - Maarten Grothus (04/2023 – ): Co-supervising with Cyril Branciard (Institut Néel)
 - Pierre Pocreau (10/2022 – ): Co-supervising with Mehdi Mhalla (LIG)
-- Raphaël Mothe (10/2021 – ): Co-supervising with Cyril Branciard (Institut Néel)
+- Raphaël Mothe (10/2021 – 10/2024): *Causal indefiniteness and dynamicality in quantum mechanics*, co-supervised with Cyril Branciard (Institut Néel)
 
 ### Master's students
-- Raphaël Le Bihan (02/2024 – 08/2024): *Compositionality of causally indefinite quantum supermaps*
+- Raphaël le Bihan (02/2024 – 08/2024): *Compositionality of causally indefinite quantum supermaps*
 - Pierre Pocreau (02/2022 – 07/2022): *Query complexity for higher order quantum computation*
 - Elliot Renel (02/2022 – 06/2022): *Computational advantages with causally indefinite quantum circuits*
 - Raphaël Mothe (02/2021 – 07/2021): *Quantum metrology with indefinite causal order*
