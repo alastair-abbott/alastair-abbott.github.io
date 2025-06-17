@@ -8,6 +8,12 @@ redirect_from:
 
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
+## 2025
+* **Classical and quantum query complexity of Boolean functions under indefinite causal order**  
+_Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
+Accepted at the 22nd International Conference on Quantum Physics and Logic (QPL 2025), Varna, Bulgaria
+[[arXiv](https://arxiv.org/abs/2506.05187)]
+
 ## 2024
 * **Network-device-independent certification of causal nonseparability**  
 _Hippolyte Dourdent, Alastair A. Abbott, Ivan Šupić, Cyril Branciard_  
