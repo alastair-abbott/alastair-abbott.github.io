@@ -31,7 +31,8 @@ If you are interested in doing an internship or research project with me, get in
 - Pierre Pocreau (10/2022 – ): Co-supervising with Mehdi Mhalla (LIG)
 - Raphaël Mothe (10/2021 – 10/2024): *Causal indefiniteness and dynamicality in quantum mechanics*, co-supervised with Cyril Branciard (Institut Néel)
 
-### Master's students
+### Master's and undergraduate students
+- Igor Semezies (06/2025 - 07/2025): *Bounding quantum social welfare in non-cooperative games*
 - Matthieu Bruant (03/2025 - 07/2025): *Genuinely multipartite noncausality and causal nonseparability*
 - Raphaël le Bihan (02/2024 – 08/2024): *Compositionality of causally indefinite quantum supermaps*
 - Pierre Pocreau (02/2022 – 07/2022): *Query complexity for higher order quantum computation*
