@@ -9,6 +9,12 @@ redirect_from:
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
 ## 2025
+* **Routing quantum control of causal order**  
+_Maarten Grothus, Alastair A. Abbott, Augustin Vanrietvelde, Cyril Branciard_  
+[[arXiv](https://arxiv.org/abs/2507.08781)]
+* **Correlations and quantum circuits with dynamical causal order**  
+_Raphaël Mothe, Alastair A. Abbott, Cyril Branciard_  
+[[arXiv](https://arxiv.org/abs/2507.07992)]
 * **Classical and quantum query complexity of Boolean functions under indefinite causal order**  
 _Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
 Accepted at the 22nd International Conference on Quantum Physics and Logic (QPL 2025), Varna, Bulgaria

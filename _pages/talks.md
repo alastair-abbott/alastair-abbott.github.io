@@ -10,6 +10,12 @@ A selection of talks I've given at various conferences, workshops and research g
 
 **Disclaimer**: These slides reflect my thoughts at the time of the talk, which may have evolved in the time that has since elapsed.
 
+<!-- ## 2025 -->
+<!-- -->
+* **Self-testing quantum supermaps, with an application to the quantum switch**
+_[Central European Quantum Information Processing (CEQIP)](http://ceqip.eu/2025/)_,
+Smolenice, Slovakia (July 2, 2025)
+<!-- ## 2023 -->
 <!-- ## 2024 -->
 <!-- -->
 * **Self-testing quantum supermaps, with an application to the quantum switch**
