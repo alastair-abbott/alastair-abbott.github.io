@@ -17,7 +17,7 @@ _Raphaël Mothe, Alastair A. Abbott, Cyril Branciard_
 [[arXiv](https://arxiv.org/abs/2507.07992)]
 * **Classical and quantum query complexity of Boolean functions under indefinite causal order**  
 _Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
-Accepted at the 22nd International Conference on Quantum Physics and Logic (QPL 2025), Varna, Bulgaria
+Proceedings of the 22nd International Conference on Quantum Physics and Logic (QPL 2025), Varna, Bulgaria; EPTCS 426, 270 (2025) [[proceedings](https://dx.doi.org/10.4204/EPTCS.426.11)] 
 [[arXiv](https://arxiv.org/abs/2506.05187)]
 
 ## 2024
