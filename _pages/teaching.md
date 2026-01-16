@@ -6,7 +6,7 @@ redirect_from:
   - /teaching.html
 ---
 
-### 2021–2025
+### 2021–2026
 
 - [Fundamental Computer Science (MoSIG M1 and M1 Info)](https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=445)
 
