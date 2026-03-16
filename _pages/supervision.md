@@ -8,7 +8,8 @@ redirect_from:
 
 ### PhD and Postdoc positions
 
-There is currently a call open for [PhD scholarships in quantum sciences in Grenoble](https://phdquantumgrenoble.univ-grenoble-alpes.fr/). Interested students are free to apply for the PhD subject I have available there. Feel free to contact me for further information. **Deadline: March 16, 2026.**
+<!-- There is currently a call open for [PhD scholarships in quantum sciences in Grenoble](https://phdquantumgrenoble.univ-grenoble-alpes.fr/). Interested students are free to apply for the PhD subject I have available there. Feel free to contact me for further information. **Deadline: March 16, 2026.** -->
+There are regular [calls for PhD funding](https://quantalps.univ-grenoble-alpes.fr/events-opportunities/opportunities/phd-calls/) organised by QuantAlps in Grenoble.
 
 <!-- There are some possibilities to apply for PhD funding in Grenoble; exceptional students with ideas for a PhD project can get in touch to discuss such possibilities further. -->
 <!-- - We currently have a postdoc position open for research related to quantum cryptography. The candidates could be based either in Grenoble (with myself) or Lyon (with Omar Fawzi). For more information, see the [Job Offers](https://team.inria.fr/qinfo/job-offers/) page of the [QINFO team website](https://team.inria.fr/qinfo/). -->
@@ -29,8 +30,8 @@ If you are interested in doing an internship or research project with me, get in
 
 ### PhD students
 - Raphaël le Bihan (10/2024 – ): Co-supervising with Mnacho Echenim (LIG)
-- Maarten Grothus (04/2023 – ): Co-supervising with Cyril Branciard (Institut Néel)
-- Pierre Pocreau (10/2022 – ): Co-supervising with Mehdi Mhalla (LIG)
+- Maarten Grothus (04/2023 – ): *Perspectives on signalling and causal order in physical theories*, co-supervising with Cyril Branciard (Institut Néel)
+- Pierre Pocreau (10/2022 – 10/2025): *The use of entanglement in non-cooperative games, and the computational power of indefinite causal order*, co-supervised with Mehdi Mhalla (LIG)
 - Raphaël Mothe (10/2021 – 10/2024): *Causal indefiniteness and dynamicality in quantum mechanics*, co-supervised with Cyril Branciard (Institut Néel)
 
 ### Master's and undergraduate students
