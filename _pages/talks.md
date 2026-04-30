@@ -12,26 +12,26 @@ A selection of talks I've given at various conferences, workshops and research g
 
 <!-- ## 2025 -->
 <!-- -->
-* **Self-testing quantum supermaps, with an application to the quantum switch**
+* **Self-testing quantum supermaps, with an application to the quantum switch**  
 _[Central European Quantum Information Processing (CEQIP)](http://ceqip.eu/2025/)_,
 Smolenice, Slovakia (July 2, 2025)
 <!-- ## 2023 -->
 <!-- ## 2024 -->
 <!-- -->
-* **Self-testing quantum supermaps, with an application to the quantum switch**
+* **Self-testing quantum supermaps, with an application to the quantum switch**  
 _[Causalworlds](https://events.perimeterinstitute.ca/event/69/)_,
 Perimeter Institute, Waterloo, Canada (September 16, 2024)
 <!-- ## 2023 -->
 <!-- -->
-* **Improving social welfare in non-cooperative games with different types of quantum resources**
+* **Improving social welfare in non-cooperative games with different types of quantum resources**  
 _[Japanese-French Quantum Information Workshop (JFQI)](https://jfqi2023.github.io/)_,
 Tokyo, Japan (December 15, 2023) [[slides](https://github.com/JFQI2023/JFQI2023.github.io/raw/master/assets/pdf/Abbott.pdf)]
-* **Improving social welfare in non-cooperative games with different types of quantum resources**
+* **Improving social welfare in non-cooperative games with different types of quantum resources**  
 _[Central European Quantum Information Processing (CEQIP)](http://ceqip.eu/2023/)_,
 Smolenice, Slovakia (September 6, 2023) [[slides](http://ceqip.eu/2023/talks/talk2023ceqip_abbott.pdf)]
 <!-- ## 2022 -->
 <!-- -->
-* **Causal indefiniteness from quantum control of processes**
+* **Causal indefiniteness from quantum control of processes**  
 _["Ateliers du LKB" seminar series](http://www.lkb.upmc.fr/ateliers-du-lkb/)_,
 Paris, France (October 13, 2022) [[slides](/files/slides/2022_LKB_Abbott.pdf)]
 <!-- ## 2021 -->
