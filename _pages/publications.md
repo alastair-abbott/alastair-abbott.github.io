@@ -8,6 +8,11 @@ redirect_from:
 
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
+## 2026
+* **Self-testing quantum supermaps**  
+_Victor Barizien, Cyril Branciard, Alastair A. Abbott, Jean-Daniel Bancal, Pavel Sekatski_  
+[[arXiv]](https://arxiv.org/abs/2606.25124)
+
 ## 2025
 * **Routing quantum control of causal order**  
 _Maarten Grothus, Alastair A. Abbott, Augustin Vanrietvelde, Cyril Branciard_  

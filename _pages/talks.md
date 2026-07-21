@@ -10,6 +10,10 @@ A selection of talks I've given at various conferences, workshops and research g
 
 **Disclaimer**: These slides reflect my thoughts at the time of the talk, which may have evolved in the time that has since elapsed.
 
+<!-- ## 2026 -->
+* **Revisiting genuine-multipartiteness in causally indefinite correlations and processes**  
+_[Causalworlds](https://causalworlds2026.inria.fr/)_,
+Grenoble, France (June 26, 2026)
 <!-- ## 2025 -->
 <!-- -->
 * **Self-testing quantum supermaps, with an application to the quantum switch**  
