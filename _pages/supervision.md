@@ -29,7 +29,7 @@ If you are interested in doing an internship or research project with me, get in
 # Students, past and present
 
 ### PhD students
-- Raphaël le Bihan (10/2024 – ): Co-supervising with Mnacho Echenim (LIG)
+- Raphaël Le Bihan (10/2024 – ): Co-supervising with Mnacho Echenim (LIG)
 - Maarten Grothus (04/2023 – 04/2026): *Perspectives on signalling and causal order in physical theories*, co-supervised with Cyril Branciard (Institut Néel)
 - Pierre Pocreau (10/2022 – 10/2025): *The use of entanglement in non-cooperative games, and the computational power of indefinite causal order*, co-supervised with Mehdi Mhalla (LIG)
 - Raphaël Mothe (10/2021 – 10/2024): *Causal indefiniteness and dynamicality in quantum mechanics*, co-supervised with Cyril Branciard (Institut Néel)

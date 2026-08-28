@@ -9,17 +9,21 @@ redirect_from:
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
 ## 2026
+* **Randomness can be certified in energy-constrained semi-device-independent scenarios**  
+_Shashank Kumar Ranu, Lewis Wooltorton, Alastair. A. Abbott, Omar Fawzi_  
+[[arXiv]](https://arxiv.org/abs/2608.27357)
 * **Self-testing quantum supermaps**  
 _Victor Barizien, Cyril Branciard, Alastair A. Abbott, Jean-Daniel Bancal, Pavel Sekatski_  
 [[arXiv]](https://arxiv.org/abs/2606.25124)
+* **Correlations and quantum circuits with dynamical causal order**  
+_Raphaël Mothe, Alastair A. Abbott, Cyril Branciard_  
+PRX Quantum, to appear (2026)
+[[arXiv]](https://arxiv.org/abs/2507.07992)
 
 ## 2025
 * **Routing quantum control of causal order**  
 _Maarten Grothus, Alastair A. Abbott, Augustin Vanrietvelde, Cyril Branciard_  
 [[arXiv](https://arxiv.org/abs/2507.08781)]
-* **Correlations and quantum circuits with dynamical causal order**  
-_Raphaël Mothe, Alastair A. Abbott, Cyril Branciard_  
-[[arXiv](https://arxiv.org/abs/2507.07992)]
 * **Classical and quantum query complexity of Boolean functions under indefinite causal order**  
 _Alastair A. Abbott, Mehdi Mhalla, Pierre Pocreau_  
 Proceedings of the 22nd International Conference on Quantum Physics and Logic (QPL 2025), Varna, Bulgaria; EPTCS 426, 270 (2025) [[proceedings](https://dx.doi.org/10.4204/EPTCS.426.11)] 
