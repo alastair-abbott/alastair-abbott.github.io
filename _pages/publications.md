@@ -9,6 +9,9 @@ redirect_from:
 All of my papers and preprints can also be found on [my arXiv page](https://arxiv.org/a/abbott_a_1.html).
 
 ## 2026
+* **All causally separable quantum processes are quantum circuits with classical control of causal order**  
+_Julian Wechs, Alastair. A. Abbott, Cyril Branciard_  
+[[arXiv]](https://arxiv.org/abs/2609.20774)
 * **Randomness can be certified in energy-constrained semi-device-independent scenarios**  
 _Shashank Kumar Ranu, Lewis Wooltorton, Alastair. A. Abbott, Omar Fawzi_  
 [[arXiv]](https://arxiv.org/abs/2608.27357)
